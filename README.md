@@ -1,4 +1,4 @@
-## Hi there 👋
+## Konnichiwa 👋
 
 <!--
 **Atishay25/Atishay25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
